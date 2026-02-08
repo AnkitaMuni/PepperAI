@@ -1,0 +1,8 @@
+opencv-python
+numpy
+albumentations
+scikit-image
+opencv-python
+numpy
+albumentations
+scikit-image
